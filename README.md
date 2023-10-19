@@ -27,9 +27,9 @@ To get PulsePod up and running, you need:
 
 After cloning the repository, install the required CocoaPods:
 
-\`\`\`bash
+```bash
 pod install
-\`\`\`
+```
 
 ---
 
